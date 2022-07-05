@@ -1,0 +1,3 @@
+xiaomi.srv
+abc@xiaomi.com
+password=666666
